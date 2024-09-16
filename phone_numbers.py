@@ -16,4 +16,3 @@ print(f"{number_3} is valid phone: {phone_pattern(number_1)}")
 print(f"{number_4} is valid phone: {phone_pattern(number_2)}")
 print(f"{number_3} is valid phone: {phone_pattern(number_3)}")
 print(f"{number_4} is valid phone: {phone_pattern(number_4)}")
-~                                                           i
