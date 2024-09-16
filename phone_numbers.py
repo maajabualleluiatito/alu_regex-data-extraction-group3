@@ -6,7 +6,6 @@ def numbers(phone):
 
 # Test Cases
 
-
 # Example Usage
 number_1 ="(123) 456-7890"
 number_2 = "123-456-7890"
